@@ -1,7 +1,7 @@
-# I'M IN, \0/
+# Long House
+
+Dissect, anatomize and enrich with context pieces of cryptomedia.
 
 
-[Let's Celebrate](https://www.youtube.com/watch?v=3GwjfUFyY6M)
+![alt text](https://github.com/math77/longhouse/blob/main/ibis.png?raw=true)
 
-
-Don't worry, I'm going to update this with real project information soon.
