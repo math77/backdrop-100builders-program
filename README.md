@@ -12,28 +12,31 @@ LongHouse is an attempt to provide a platform for anyone with a bit of spare tim
 
 ### Wtf is "DAE"?
 
-#### D (dissect): 
-	Cut out and highlight individual parts of the piece or specific tokens from a collection that you want to focus on during your anatomization
+#### D (dissect)
+
+Cut out and highlight individual parts of the piece or specific tokens from a collection that you want to focus on during your anatomization
 	
-#### A (anatomize):
-	Examine and analyze the entire work (or dissected parts) to understand symbols, concepts, arguments, references and inspirations, possible hidden and underlying ideas, the relationship and interactions with the cultural/political/current landscape. 
+#### A (anatomize)
+
+Examine and analyze the entire work (or dissected parts) to understand symbols, concepts, arguments, references and inspirations, possible hidden and underlying ideas, the relationship and interactions with the cultural/political/current landscape. 
 	
-#### E (enrich): 
-	Add any kind of extra information (images, videos, messages, audios, links, links to other cryptomedia, comments) that you think could enrich the context of that piece (or part dissected) and make its microcosm more lively and populated.
+#### E (enrich)
+
+Add any kind of extra information (images, videos, messages, audios, links, links to other cryptomedia, comments) that you think could enrich the context of that piece (or part dissected) and make its microcosm more lively and populated.
 
 
 ## Install
 
 ```bash
-	git clone https://github.com/math77/longhouse.git
-	cd webapp/
-	yarn add
+git clone https://github.com/math77/longhouse.git
+cd webapp/
+yarn add
 
-	cd ..
+cd ..
 
-	cd contracts/
-	yarn add
-	yarn dev	
+cd contracts/
+yarn add
+yarn dev	
 ```
 
 ## Acknowledgements
