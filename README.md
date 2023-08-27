@@ -4,6 +4,8 @@ Dissect, Anatomize and Enrich with context pieces of cryptomedia.
 
 ![alt text](https://github.com/math77/longhouse/blob/main/ibis.png?raw=true)
 
+[![](https://img.shields.io/badge/Incubated_by-100.builders-9146ff?logo=gamejolt&logoColor=white&labelColor=464646&style=for-the-badge)](https://app.100.builders/directory)
+
 ## Why
 
 In 10 years' time, all the content and art on the internet, every piece, will be a piece of cryptomedia. Some creators and artists will make a full-time career out of it, make millions and become celebrities in a new world of creation. Others will make a hobby of it and earn enough to live a good and happy life expressing their creativity. There are many different scenarios, but the one constant is that we will have a mountain of cryptomedia. Contextualizing and profiling the main pieces is crucial (and fun) to do as we are inundated with great creations over the next few years. It's crucial for us to create a behavior of thinking carefully, "chewing" and "digesting" the media (and its microcosm) that people are having access to. Moving beyond consumer behavior to "small-expert" or "fan polymath" behavior.
