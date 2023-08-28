@@ -14,7 +14,8 @@ Actually, signals, because there are two:
 - Any thinker, idea guy, builder, whatever:
  	- Opinions/ideas to offer this project in relation to the general idea
 	- Thoughts related to content curation and tagging.
-	- Thoughts related to content storage that "should last", in short, go with ipfs or arweave? 
+	- Thoughts related to content storage that "should last", in short, go with ipfs or arweave?
+	- Webdevs who have ideas/advice on how best to build a "Spatial interface" (figma editor style) 
 
 
 ## Why
