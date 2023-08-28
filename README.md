@@ -39,7 +39,7 @@ Examine and analyze the entire work (or dissected parts) to understand symbols, 
 Add any kind of extra information (images, videos, messages, audios, links, links to other cryptomedia, comments) that you think could enrich the context of that piece (or part dissected) and make its microcosm more lively and populated.
 
 
-![alt text](https://github.com/math77/longhouse/blob/main/dae-scheme.png?raw=true)
+![alt text](https://github.com/math77/longhouse/blob/main/assets/scheme-dae.png?raw=true)
 
 ## Install
 
